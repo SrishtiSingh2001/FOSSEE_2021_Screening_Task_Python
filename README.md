@@ -1,2 +1,13 @@
-# FOSSEE_2021_Screening_Task_Python
-This repo consists of a Python Desktop Application for Osdag.
+# What is this?
+It is a Python Desktop Application for Osdag. It helps you to see, search and append data in a Steel database of Beams, Channels and Angles Section of Osdag. It is user friendly and can be easily operated to know about the existing data present in the database. You can also search for a particular data in any section. New data can also be appended in these three sections in proper order. 
+
+This Python Desktop Application depends on Python, QML,TeX, HTML, JavaScript and PowerShell.
+# How to install setup?
+For installing the setup, first you need to install setup.exe by just following some basic simple procedures. Then, your installer will be installed and will appear as a Desktop Shortcut if alllowed. 
+For better experience and functionalities, after installing the setup you can run it by just directly clicking on Desktop Application file present or controller Application file present in dist folder. 
+It will run all the functionalities accurately.
+# How to use?
+The application is very user friendly and once opened using Desktop Application file, you can select Display, Search and Append options to do their respective jobs as the name suggests.
+Display will show all the existing data of respective sections(Beams, Channels, Angles).
+Search will show you the desired particular data of a particular section when searched giving Designation.
+Append will ask for all the details and then add the data to the database in proper order.
