@@ -5,7 +5,7 @@ This Python Desktop Application depends on Python, QML,TeX, HTML, JavaScript and
 # How to install setup?
 For installing the setup, first you need to install setup.exe by just following some basic simple procedures. Then, your installer will be installed and will appear as a Desktop Shortcut if alllowed from where you can operate the application.
 
-For better experience and to make sure all tasks are running accurately as per instructed, kindly fork the repo and then run it by just directly clicking on Desktop Application file present or controller Application file present in dist folder.
+For better experience and to make sure all tasks are running accurately as per instructed, kindly fork the repo, clone it on your system and then run it by just directly clicking on Desktop Application file present or controller Application file present in dist folder of the cloned project on your system.
 This process will run all the given tasks successfully and completely on your system without any discrepancy. Every task will function well.
 # How to use?
 The application is very user friendly and once opened using Desktop Application file, you can select Display, Search and Append options to do their respective jobs as the name suggests.
